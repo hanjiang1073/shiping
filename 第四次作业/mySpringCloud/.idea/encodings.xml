@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ceam-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ceam-eureka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ceam-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ceam-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ceam-service/ceam-ship/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ceam-service/ceam-ship/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ceam-service/ceam-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ceam-service/ceam-user/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ceam-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ceam-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
